@@ -1,8 +1,5 @@
-<p align="center">
-    # Welcome! This is Adeeb!
-</p>
+<h1 align="center">Welcome! This is Adeeb!</h1>
 
-# Welcome! This is Adeeb!
 ## Reach me at www.linkedin.com/in/MonwarAdeeb
 ## Email me at monwar.adeeb@gmail.com
 

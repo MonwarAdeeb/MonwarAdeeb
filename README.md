@@ -1,4 +1,6 @@
-#				 Welcome! I'm Adeeb!
+#	Welcome! I'm Adeeb!
+# How to reach me: www.linkedin.com/in/MonwarAdeeb
+# Email me: monwar.adeeb@gmail.com
 
 <!--
 **MonwarAdeeb/MonwarAdeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

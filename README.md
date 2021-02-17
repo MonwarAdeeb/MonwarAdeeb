@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! This is Adeeb!</h1>
 
-## Reach me at www.linkedin.com/in/MonwarAdeeb
-## Email me at monwar.adeeb@gmail.com
+### Reach me at www.linkedin.com/in/MonwarAdeeb
+### Email me at monwar.adeeb@gmail.com
 
 <!--
 **MonwarAdeeb/MonwarAdeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,17 +22,9 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />][python]
 [<img align="left" alt="Odoo" width="26px" src="https://image.pngaaa.com/63/4074063-middle.png" />][odoo]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU" />][postgres]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU" />][postgreSQL]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-
-<!-- VS Code, Python, Odoo, PostgreSQL, Git, GitHub -->
-<code><img height="25" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png"></code>
-<code><img height="25" src="https://image.pngaaa.com/63/4074063-middle.png"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU"></code>
-<code><img height="25" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
-<code><img height="25" src="https://banner2.cleanpng.com/20190425/kuy/kisspng-computer-icons-github-clip-art-transparency-free-c-ebess-uq-undergrate-electrical-engineering-stude-5cc270f9d845d4.1334546315562467778859.jpg"></code>
 
 
 *NOTE: Top Languages & Tools does not indicate my skill level or something like that, it's a GitHub metric of which Languages & Tools I have used the most to code on GitHub.
@@ -46,6 +38,11 @@
 [facebook]: https://facebook.com/MonwarAdeeb
 
 [vscode]: https://code.visualstudio.com
+[python]: https://www.python.org
+[odoo]: https://www.odoo.com
+[postgreSQL]: https://www.postgresql.org
+[git]: https://git-scm.com
+[github]: https://github.com/
 
 
 <!--

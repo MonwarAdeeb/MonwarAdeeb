@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-
-<code><img height="30" src="https://w7.pngwing.com/pngs/925/552/png-transparent-odoo-enterprise-resource-planning-computer-software-logo-customer-relationship-management-odoo-purple-violet-text.png"></code>
-
+<code><img height="30" src="https://www.icon-nc.com/img/products-img/odoo.png"></code>
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 
 

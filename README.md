@@ -1,6 +1,6 @@
 ## Hi there, I'm [Adeeb!](https://github.com/MonwarAdeeb)
 
-### I'm a Python Programmer & Odoo Developer
+### I'm a Python & Odoo Developer
 
 - 🔭 I’m currently working on [2D Golf](https://github.com/MonwarAdeeb/2D-Golf)
 - 🌱 I’m enthusiast about learning anything that interests me

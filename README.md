@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Adeeb | LinkedIn" width="22px" src="![image](https://user-images.githubusercontent.com/55869531/128633846-4f8e2a2e-f871-477d-b238-e231acbd8757.png)
-" />][linkedin]
+[<img align="left" alt="Adeeb | LinkedIn" width="22px" src=![image](https://user-images.githubusercontent.com/55869531/128633889-1b2cc200-fcb1-406a-ab8b-4005d3d11db4.png) />][linkedin]
 [<img align="left" alt="Adeeb | Gmail" width="28px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
 [<img align="left" alt="Adeeb | Facebook" width="22px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
 

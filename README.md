@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="30" src="https://www.icon-nc.com/img/products-img/odoo.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png"></code>
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png"></code>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+*NOTE: Top languages & Tools does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)

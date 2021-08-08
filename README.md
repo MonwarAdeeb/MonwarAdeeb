@@ -49,8 +49,8 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=HackerRank-Solutions)](https://github.com/MonwarAdeeb/HackerRank-Solutions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=LeetCode-Solutions)](https://github.com/MonwarAdeeb/LeetCode-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=HackerRank-Solutions&theme=vue)](https://github.com/MonwarAdeeb/HackerRank-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=LeetCode-Solutions&theme=vue)](https://github.com/MonwarAdeeb/LeetCode-Solutions)
 
 
 

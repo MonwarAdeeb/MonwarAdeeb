@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!-- VS Code, Python, Odoo, PostgreSQL -->
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="35" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png"></code>
-<code><img height="35" src="https://e7.pngegg.com/pngimages/149/587/png-clipart-computer-icons-meeting-customer-service-computer-network-meeting-purple-computer-network.png"></code>
-<code><img height="35" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png"></code>
+<code><img height="35" src="https://image.pngaaa.com/63/4074063-middle.png"></code>
+<code><img height="35" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png"></code>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.

@@ -37,7 +37,7 @@
 
 <br/>
 
-[![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)
+[![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)
 
 
 [linkedin]: https://linkedin.com/in/MonwarAdeeb

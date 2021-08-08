@@ -58,7 +58,7 @@
 [email]: mailto:monwar.adeeb@gmail.com
 [skype]: https://join.skype.com/invite/f4V2Eu6XfnXG
 [hackerrank]: https://www.hackerrank.com/MonwarAdeeb
-[leetcode]: https://leetcode.com/MonwarAdeeb/
+[leetcode]: https://leetcode.com/MonwarAdeeb
 [facebook]: https://facebook.com/MonwarAdeeb
 
 [vscode]: https://code.visualstudio.com

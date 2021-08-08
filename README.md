@@ -29,7 +29,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Bootstrap" width="26px" src="https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" />][bootstrap]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -37,12 +37,12 @@
 <br/>
 
 *NOTE: Top Languages & Tools does not indicate my skill level or something like that, it's a GitHub metric of which Languages & Tools I have used the most to code on both my professional & personal projects.
-
 <br/>
 
 
+
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonwarAdeeb&layout=compact&theme=great-gatsby)](https://github.com/MonwarAdeeb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonwarAdeeb&layout=compact&theme=great-gatsby&langs_count=10)](https://github.com/MonwarAdeeb)
 
 
 

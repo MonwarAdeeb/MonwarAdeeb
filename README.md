@@ -39,8 +39,8 @@
 
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=Random-Forest-using-Decision-Tree)](https://github.com/MonwarAdeeb/Random-Forest-using-Decision-Tree)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=Draw)](https://github.com/MonwarAdeeb/Draw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=HackerRank-Solutions)](https://github.com/MonwarAdeeb/HackerRank-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MonwarAdeeb&repo=LeetCode-Solutions)](https://github.com/MonwarAdeeb/LeetCode-Solutions)
 
 
 [linkedin]: https://linkedin.com/in/MonwarAdeeb

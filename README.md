@@ -2,14 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
+[<img align="left" alt="Adeeb | Gmail" width="22px" src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg" />][email]
 
-
-[linkedin]: https://linkedin.com/in/MonwarAdeeb
-
-
- 
-### Email me at monwar.adeeb@gmail.com
 
 <!--
 **MonwarAdeeb/MonwarAdeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,3 +37,7 @@ Here are some ideas to get you started:
 
 
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)
+
+
+[linkedin]: https://linkedin.com/in/MonwarAdeeb
+[email]: monwar.adeeb@gmail.com

@@ -1,10 +1,17 @@
-### Hi there, I'm [Adeeb!](https://github.com/MonwarAdeeb)
+## Hi there, I'm [Adeeb!](https://github.com/MonwarAdeeb)
+
+### I'm a Python Programmer & Odoo Developer.
+
+- 🔭 I’m currently working on [2D Golf](https://github.com/MonwarAdeeb/2D-Golf)
+- 🌱 I’m currently learning anythingthing that interests me
+- 🥅 2021 Goals: Learn new technologies & implement the learning to personal projects
+- ⚡ Fun fact: I love to play guitar & sing
 
 ### Connect with me:
 
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
 [<img align="left" alt="Adeeb | Gmail" width="25px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
-[<img align="left" alt="Adeeb | Facebook" width="25px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
+[<img align="left" alt="Adeeb | Facebook" width="22px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
 
 <br/>
 <br/>

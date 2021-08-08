@@ -23,5 +23,11 @@ Here are some ideas to get you started:
 
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 
+<code><img height="30" src="https://w7.pngwing.com/pngs/925/552/png-transparent-odoo-enterprise-resource-planning-computer-software-logo-customer-relationship-management-odoo-purple-violet-text.png"></code>
+
+<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+
+<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+
 
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)

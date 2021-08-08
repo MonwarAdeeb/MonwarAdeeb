@@ -28,7 +28,6 @@
 [<img align="left" alt="Odoo" width="40px" src="https://image.pngaaa.com/63/4074063-middle.png" />][odoo]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU" />][postgreSQL]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mySQL]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -66,7 +65,6 @@
 [odoo]: https://www.odoo.com
 [postgreSQL]: https://www.postgresql.org
 [sql]: https://www.mysql.com
-[mySQL]: https://www.mysql.com
 [javascript]: https://www.javascript.com
 [html]: https://html.com
 [css]: https://getbootstrap.com

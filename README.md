@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-*NOTE: Top Languages & Tools does not indicate my skill level or something like that, it's a GitHub metric of which Languages & Tools I have used the most to code on both my professional & personal projects.
+*NOTE: Languages & Tools do not indicate my skill level or something like that, it's a GitHub metric of which Languages & Tools I have used the most to work on both my professional & personal projects.
 <br/>
 
 

@@ -3,8 +3,8 @@
 ### I'm a Python Programmer & Odoo Developer
 
 - 🔭 I’m currently working on [2D Golf](https://github.com/MonwarAdeeb/2D-Golf)
-- 🌱 I’m currently learning anything that interests me
-- 🥅 2021 Goals: Learn new technologies & implement the learning to personal projects
+- 🌱 I’m enthusiast about learning anything that interests me
+- 🥅 2021 Goals: Learn new technologies & implement the learned knowledge into personal projects
 - ⚡ Fun fact: I love to sing & play guitar
 
 
@@ -12,13 +12,15 @@
 
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
 [<img align="left" alt="Adeeb | Gmail" width="28px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
+[<img align="left" alt="Adeeb | HackerRank" width="22px" src="https://www.pngitem.com/pimgs/m/0-1917_hackerrank-hackerrank-icon-hd-png-download.png" />][hackerrank]
+[<img align="left" alt="Adeeb | LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="Adeeb | Facebook" width="22px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
 
 <br/>
 <br/>
 
 
-**Languages and Tools I Use:**  
+**Languages & Tools I Use:**  
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />][python]
@@ -54,6 +56,8 @@
 [linkedin]: https://linkedin.com/in/MonwarAdeeb
 [email]: mailto:monwar.adeeb@gmail.com
 [facebook]: https://facebook.com/MonwarAdeeb
+[hackerrank]: https://www.hackerrank.com/MonwarAdeeb
+[leetcode]: https://leetcode.com/MonwarAdeeb/
 
 [vscode]: https://code.visualstudio.com
 [python]: https://www.python.org

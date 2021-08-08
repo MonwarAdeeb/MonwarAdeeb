@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://w7.pngwing.com/pngs/441/911/png-transparent-learning-to-program-using-python-programming-language-computer-programming-the-python-papers-anthology-computer-text-computer-logo.png"></code>
+<code><img height="20" src="https://www.pngarea.com/pngm/96/7095905_python-logo-png-graphic-design-transparent-png.png"></code>
 
 
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)

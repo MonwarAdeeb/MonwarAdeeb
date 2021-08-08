@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
-[<img align="left" alt="Adeeb | Gmail" width="25px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
+[<img align="left" alt="Adeeb | Gmail" width="28px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
 [<img align="left" alt="Adeeb | Facebook" width="22px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
 
 <br/>
@@ -19,9 +19,15 @@
 
 
 **Languages and Tools:**  
-<!-- VS Code, Python, Odoo, PostgreSQL, Git, GitHub -->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+[<img align="left" alt="Python" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />][python]
+[<img align="left" alt="Odoo" width="26px" src="https://image.pngaaa.com/63/4074063-middle.png" />][odoo]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU" />][postgres]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+
+<!-- VS Code, Python, Odoo, PostgreSQL, Git, GitHub -->
 <code><img height="25" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png"></code>
 <code><img height="25" src="https://image.pngaaa.com/63/4074063-middle.png"></code>
 <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU"></code>

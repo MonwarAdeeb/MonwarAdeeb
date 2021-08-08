@@ -44,7 +44,7 @@
 
 
 
-[![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby&hide=issues,contribs)](https://github.com/MonwarAdeeb)
+[![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby&hide=issues)](https://github.com/MonwarAdeeb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonwarAdeeb&layout=compact&theme=great-gatsby&langs_count=10)](https://github.com/MonwarAdeeb)
 
 

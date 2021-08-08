@@ -2,12 +2,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin.com/in/MonwarAdeeb" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][website]
+[<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[website]: https://linkedin.com/in/MonwarAdeeb
+[linkedin]: https://linkedin.com/in/MonwarAdeeb
 
-### Reach me at [LinkedIn!](https://linkedin.com/in/MonwarAdeeb)  
+
+ 
 ### Email me at monwar.adeeb@gmail.com
 
 <!--

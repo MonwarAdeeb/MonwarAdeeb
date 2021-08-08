@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true)]
+[![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true)](https://github.com/MonwarAdeeb?tab=repositories)

@@ -11,8 +11,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/55869531/128633947-f91d8dc4-9e17-4f60-94cf-aaaa336a89e7.png" />][linkedin]
-[<img align="left" alt="Adeeb | Gmail" width="28px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
-[<img align="left" alt="Adeeb | Facebook" width="22px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
+[<img align="left" alt="Adeeb | Gmail" width="28px" src="https://user-images.githubusercontent.com/55869531/128633993-e0af10e9-2887-4afa-a556-117b3efd6675.png" />][email]
+[<img align="left" alt="Adeeb | Facebook" width="22px" src="https://user-images.githubusercontent.com/55869531/128634012-ce56b127-fa84-4d2b-ba0c-79fb4ac4641d.png" />][facebook]
 
 <br/>
 <br/>

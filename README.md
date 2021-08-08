@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
-[<img align="left" alt="Adeeb | Gmail" width="22px" src="https://i.pinimg.com/736x/ca/27/f6/ca27f615c790f1af43f2dd564599bf6a.jpg" />][email]
+[<img align="left" alt="Adeeb | Gmail" width="22px" src="https://mpng.subpng.com/20171216/aea/gmail-logo-png-5a3553a6e082c3.6128108415134442629196.jpg" />][email]
 
 <br/>
 <br/>

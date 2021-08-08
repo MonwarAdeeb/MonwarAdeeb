@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />][python]
-[<img align="left" alt="Odoo" width="40px" src="https://e7.pngegg.com/pngimages/936/291/png-clipart-odoo-business-payment-de-gea-spain-purple-violet.png" />][odoo]
+[<img align="left" alt="Odoo" width="40px" src="https://e7.pngegg.com/pngimages/936/291/png-clipart-odoo-business-payment-de-gea-spain-purple-violet-thumbnail.png" />][odoo]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU" />][postgreSQL]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]

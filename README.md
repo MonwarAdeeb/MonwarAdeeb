@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
-[<img align="left" alt="Adeeb | Gmail" width="22px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
+[<img align="left" alt="Adeeb | Gmail" width="25px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
 
 <br/>
 <br/>
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://linkedin.com/in/MonwarAdeeb
-[email]: monwar.adeeb@gmail.com
+[email]: mailto:monwar.adeeb@gmail.com

@@ -1,4 +1,9 @@
-<h1 align="center">Hey there! This is [Adeeb!](https://https://github.com/MonwarAdeeb)</h1>
+### Hi there, I'm [Adeeb!](https://github.com/MonwarAdeeb)
+
+### Connect with me:
+
+[<img align="left" alt="linkedin.com/in/MonwarAdeeb" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][website]
+
 
 ### Reach me at [LinkedIn!](https://linkedin.com/in/MonwarAdeeb)  
 ### Email me at monwar.adeeb@gmail.com

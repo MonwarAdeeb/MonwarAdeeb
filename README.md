@@ -21,14 +21,16 @@
 **Languages and Tools:**  
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png" />][python]
-[<img align="left" alt="Odoo" width="26px" src="https://image.pngaaa.com/63/4074063-middle.png" />][odoo]
+[<img align="left" alt="Odoo" width="32px" src="https://image.pngaaa.com/63/4074063-middle.png" />][odoo]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4FebGO4LQaNFxnZwXSyTOR5VMabxnNZxxCvFB1K_y5E8MQSKlWhbKbZs_4UDABtsTIA&usqp=CAU" />][postgreSQL]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
+<br/>
 
 *NOTE: Top Languages & Tools does not indicate my skill level or something like that, it's a GitHub metric of which Languages & Tools I have used the most to code on GitHub.
 
+<br/>
 
 [![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonwarAdeeb&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MonwarAdeeb)
 

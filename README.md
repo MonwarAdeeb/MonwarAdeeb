@@ -2,7 +2,7 @@
 
 ### I'm a Python & Odoo Developer
 
-- 🔭 I’m currently working on [Sorting Visualizer](https://github.com/MonwarAdeeb/sorting-visualizer)
+- 🔭 I’m currently working on [Sorting Visualizer](https://github.com/MonwarAdeeb/Sorting-Vizualizer)
 - 🌱 I’m enthusiast about learning anything that interests me
 - 🥅 2021 Goals: Learn new technologies & implement the learned knowledge into my projects
 - ⚡ Fun fact: I love to sing & play guitar

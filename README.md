@@ -1,11 +1,10 @@
 ## Hi there, I'm [Adeeb!](https://www.linkedin.com/in/MonwarAdeeb)
 
-### I'm a Python & Odoo Developer
+### I'm a Python/Odoo Developer
 
 - I’m currently working on [JavaScript Projects](https://github.com/MonwarAdeeb/JavaScript-Projects)
 - I’m enthusiast about learning anything that interests me
-- 2021 Goals: Learn new technologies & implement the learned knowledge into my projects
-- Fun fact: I love to sing & play guitar
+- 2022 Goals: Deep dive into technologies which interest me, become efficient & wield the gained knowledge & efficiency into my works.
 
 
 ### Connect with me:

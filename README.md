@@ -12,7 +12,7 @@
 [<img align="left" alt="Adeeb | LinkedIn" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-png-icon-design-elements-png-image_3562011.jpg" />][linkedin]
 [<img align="left" alt="Adeeb | Gmail" width="30px" src="https://i.dlpng.com/static/png/6438643_preview.png" />][email]
 [<img align="left" alt="Adeeb | Skype" width="22px" src="https://www.freepnglogos.com/uploads/skype-logo-png/skype-logo-vector-icon-template-clipart-download-0.png" />][skype]
-[<img align="left" alt="Adeeb | HackerRank" width="30px" src="https://www.pngitem.com/pimgs/m/0-1917_hackerrank-hackerrank-icon-hd-png-download.png" />][hackerrank]
+[<img align="left" alt="Adeeb | HackerRank" width="30px" src="https://w7.pngwing.com/pngs/374/588/png-transparent-hackerrank-computer-programming-programmer-logo-interview-hacker-logo-miscellaneous-angle-trademark.png" />][hackerrank]
 [<img align="left" alt="Adeeb | LeetCode" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="Adeeb | Facebook" width="22px" src="https://www.pngkey.com/png/detail/839-8393923_facebook-icon-free-download-png-and-vector-facebook.png" />][facebook]
 

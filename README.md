@@ -2,7 +2,7 @@
 
 ### I'm a Python/Odoo Developer
 
-- I’m currently working on [Automation Projects using Python](https://github.com/MonwarAdeeb/Automation-Projects-using-Python).
+- I’m currently working on [JavaScript Projects](https://github.com/MonwarAdeeb/JavaScript-Projects).
 - I’m enthusiast about learning & making myself better - everyday.
 - 2022 Goals: Deep dive into technologies which interest me, become efficient & wield the gained knowledge & efficiency into my works.
 
